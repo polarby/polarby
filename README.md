@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarby&theme=dark&layout=compact" /> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=polarby&show_icons=true&theme=dark" />
+   <img alt="polarby’s most used languages" width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=polarby&theme=dark&layout=compact" /> <img alt="polarby’s GitHub statistics" width="48%" src="https://github-stats-extended.vercel.app/api?username=polarby&show_icons=true&theme=dark" />
 </div>
 
 
@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
